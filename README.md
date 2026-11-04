@@ -1,4 +1,5 @@
-## 📁 Struktur File & Folder
+### 📁 Struktur File & Folder
+
 ```text
 📁 P5_PBO
 ├── 📂 tugas3/
@@ -9,11 +10,12 @@
 ├── 📄 tugas1.php                 # Access Modifiers Analysis
 ├── 📄 tugas2.php                 # Getter, Setter & Business Logic Validation
 └── 📄 tugas4.md                  # Conceptual Reflection Report
+```
 
 <p align="left">
   <a href="https://github.com/RvaldyDev">
-    <img src="https://img.shields.io/badge/GitHub-RvaldyDev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+    <img src="https://img.shields.io/badge/GitHub-RvaldyDev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge">
-  <img src="https://img.shields.io/badge/Environment-Laragon%20%2F%20XAMPP-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Dev Badge">
+  <img src="https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Environment-Laragon%20%2F%20XAMPP-007ACC?style=for-the-badge&logo=xampp&logoColor=white" alt="Environment" />
 </p>
